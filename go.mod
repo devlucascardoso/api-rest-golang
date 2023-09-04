@@ -9,26 +9,7 @@ require (
 
 require (
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0 // indirect
-	github.com/hashicorp/errwrap v1.1.0 // indirect
-	github.com/hashicorp/go-multierror v1.1.1 // indirect
-	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/lestrrat-go/blackmagic v1.0.1 // indirect
-	github.com/mattn/go-isatty v0.0.16 // indirect
-	github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0 // indirect
-	github.com/stretchr/objx v0.5.1 // indirect
-	go.uber.org/atomic v1.9.0 // indirect
-	golang.org/x/mod v0.10.0 // indirect
-	golang.org/x/tools v0.9.1 // indirect
-	lukechampine.com/uint128 v1.2.0 // indirect
-	modernc.org/cc/v3 v3.36.3 // indirect
-	modernc.org/ccgo/v3 v3.16.9 // indirect
-	modernc.org/libc v1.17.1 // indirect
-	modernc.org/mathutil v1.5.0 // indirect
-	modernc.org/memory v1.2.1 // indirect
-	modernc.org/opt v0.1.3 // indirect
-	modernc.org/sqlite v1.18.1 // indirect
-	modernc.org/strutil v1.1.3 // indirect
-	modernc.org/token v1.0.0 // indirect
 )
 
 require (
@@ -41,7 +22,7 @@ require (
 	github.com/lestrrat-go/iter v1.0.2 // indirect
 	github.com/lestrrat-go/jwx v1.2.26 // indirect
 	github.com/lestrrat-go/option v1.0.1 // indirect
-	github.com/mattn/go-sqlite3 v1.14.17
+	github.com/mattn/go-sqlite3 v1.14.17 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 )
@@ -49,7 +30,6 @@ require (
 require (
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/go-chi/jwtauth v1.2.0
-	github.com/golang-migrate/migrate/v4 v4.16.2
 	github.com/google/uuid v1.3.1
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
